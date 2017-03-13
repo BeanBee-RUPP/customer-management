@@ -19,7 +19,7 @@ program content:
 
 1. Clone project from this repository:
 <pre>
-git clone git@github.com:Chanarin/customer-management-system.git
+git clone git@github.com:BeanBee-RUPP/customer-management-system.git
 </pre>
 
 2. Import database from customer-management.sql in the root of project
